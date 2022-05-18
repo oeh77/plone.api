@@ -34,6 +34,7 @@ setup(
         "decorator",
         "plone.app.uuid",
         "plone.app.linkintegrity",
+        "plone.dexterity",
         "plone.uuid",
         "setuptools",
         "zope.globalrequest",
